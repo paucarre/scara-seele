@@ -22,7 +22,7 @@ The solid modeling file is in `solid_modeling/angular.FCStd`
 ### FreeCAD Design
 ![](https://lh3.googleusercontent.com/RZDmFDqH0Tn4_d8J0h7VIhyJDEQKfYXlhl_zMmdzhGFwP4B9fq9yzPpWrqp-vloXW7q_bJuF1Wz9zYs=w3716-h1928-rw)
 ### Laser cut assembly
-![](https://lh6.googleusercontent.com/QRuz1Ib1mVRPFDPvIdwgdUiOW0kkIU47ziyc70ySCgsPuwt9kEWBZF7oTck-IB2XKS23Ui-Kxht2dzc=w3716-h1836-rw)
+![](https://lh3.googleusercontent.com/8Y880jW4qwiRlMy8F-sHVzTMkEQ32ZhlGQjcy1K63yYIatYiH-wjlr93KlCSGTg3F659GPmq1_T-UM8=w3716-h1928-rw)
 
 
 ## Linear Actuator (lifter)
@@ -35,9 +35,9 @@ It should be noted that both the top motor holder and the bottom sensor holder
 will be 3d printed independently.
 The solid modeling file is in `solid_modeling/lifter.scad`
 ### OpenSCAD Design
-![](https://lh6.googleusercontent.com/4PvErQ7HinvYkzmgH-bNNALjzBDeXU9edhuklOPm9Yrf_pFmFz17PyxaeFgcVhbz9wA33TgXt6Yo57E=w3716-h1836-rw)
+![](https://lh3.googleusercontent.com/4PvErQ7HinvYkzmgH-bNNALjzBDeXU9edhuklOPm9Yrf_pFmFz17PyxaeFgcVhbz9wA33TgXt6Yo57E=w3716-h1836-rw)
 ### Laser cut assembly
-![](https://lh5.googleusercontent.com/HaGUqrYZ_jOZm1WbWW_6dp_awc6b2rbgtF-KZznZngbmjFrCimikBTeIWbNhQDGBprN0wBVK2YEMgmc=w3716-h1836-rw)
+![](https://lh3.googleusercontent.com/HaGUqrYZ_jOZm1WbWW_6dp_awc6b2rbgtF-KZznZngbmjFrCimikBTeIWbNhQDGBprN0wBVK2YEMgmc=w3716-h1836-rw)
 
 ### Linear Actuator Motor holder
 This is ongoing and currently designing it in Fusion 360 and it'll be 3D
