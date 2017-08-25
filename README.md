@@ -20,9 +20,9 @@ using laser cut for cost reasons.
 It uses a AS5448A magnetic rotatory sensor.
 The solid modeling file is in `solid_modeling/angular.FCStd`
 ### FreeCAD Design
-![FreeCAD design](https://lh6.googleusercontent.com/bjKo2kTFTSVuqVxE0d4KoaEnTFLJ6NgtBi7OSdAO__c1Mq6WAapYcQZ86y5LrzoBHNUVhetuI81Cjko=w3716-h1836-rw "FreeCAD Design")
+![](https://lh6.googleusercontent.com/bjKo2kTFTSVuqVxE0d4KoaEnTFLJ6NgtBi7OSdAO__c1Mq6WAapYcQZ86y5LrzoBHNUVhetuI81Cjko=w3716-h1836-rw)
 ### Laser cut assembly
-![](https://lh6.googleusercontent.com/QRuz1Ib1mVRPFDPvIdwgdUiOW0kkIU47ziyc70ySCgsPuwt9kEWBZF7oTck-IB2XKS23Ui-Kxht2dzc=w3716-h1836-rw "Angular Actuator")
+![](https://lh6.googleusercontent.com/QRuz1Ib1mVRPFDPvIdwgdUiOW0kkIU47ziyc70ySCgsPuwt9kEWBZF7oTck-IB2XKS23Ui-Kxht2dzc=w3716-h1836-rw)
 
 
 ## Linear Actuator (lifter)
@@ -35,9 +35,9 @@ It should be noted that both the top motor holder and the bottom sensor holder
 will be 3d printed independently.
 The solid modeling file is in `solid_modeling/lifter.scad`
 ### OpenSCAD Design
-![OpenSCAD design](https://lh6.googleusercontent.com/4PvErQ7HinvYkzmgH-bNNALjzBDeXU9edhuklOPm9Yrf_pFmFz17PyxaeFgcVhbz9wA33TgXt6Yo57E=w3716-h1836-rw "OpenSCAD Design")
+![](https://lh6.googleusercontent.com/4PvErQ7HinvYkzmgH-bNNALjzBDeXU9edhuklOPm9Yrf_pFmFz17PyxaeFgcVhbz9wA33TgXt6Yo57E=w3716-h1836-rw)
 ### Laser cut assembly
-![](https://lh5.googleusercontent.com/HaGUqrYZ_jOZm1WbWW_6dp_awc6b2rbgtF-KZznZngbmjFrCimikBTeIWbNhQDGBprN0wBVK2YEMgmc=w3716-h1836-rw "Angular Actuator")
+![](https://lh5.googleusercontent.com/HaGUqrYZ_jOZm1WbWW_6dp_awc6b2rbgtF-KZznZngbmjFrCimikBTeIWbNhQDGBprN0wBVK2YEMgmc=w3716-h1836-rw)
 
 ### Linear Actuator Motor holder
 This is ongoing and currently designing it in Fusion 360 and it'll be 3D
