@@ -20,7 +20,7 @@ using laser cut for cost reasons.
 It uses a AS5448A magnetic rotatory sensor.
 The solid modeling file is in `solid_modeling/angular.FCStd`
 ### FreeCAD Design
-![](https://lh6.googleusercontent.com/bjKo2kTFTSVuqVxE0d4KoaEnTFLJ6NgtBi7OSdAO__c1Mq6WAapYcQZ86y5LrzoBHNUVhetuI81Cjko=w3716-h1836-rw)
+![](https://lh3.googleusercontent.com/RZDmFDqH0Tn4_d8J0h7VIhyJDEQKfYXlhl_zMmdzhGFwP4B9fq9yzPpWrqp-vloXW7q_bJuF1Wz9zYs=w3716-h1928-rw)
 ### Laser cut assembly
 ![](https://lh6.googleusercontent.com/QRuz1Ib1mVRPFDPvIdwgdUiOW0kkIU47ziyc70ySCgsPuwt9kEWBZF7oTck-IB2XKS23Ui-Kxht2dzc=w3716-h1836-rw)
 
