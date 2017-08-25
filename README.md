@@ -35,9 +35,9 @@ It should be noted that both the top motor holder and the bottom sensor holder
 will be 3d printed independently.
 The solid modeling file is in `solid_modeling/lifter.scad`
 ### OpenSCAD Design
-![](https://lh3.googleusercontent.com/4PvErQ7HinvYkzmgH-bNNALjzBDeXU9edhuklOPm9Yrf_pFmFz17PyxaeFgcVhbz9wA33TgXt6Yo57E=w3716-h1836-rw)
+![](https://lh5.googleusercontent.com/hLw_7GoiBAgh1V1O_aSLFpr5kcgygpRbCc1rfbTbzLsLjD-7QiIVWNpfKJAroLmlpEkC2YqZ1JVIaL8=w3716-h1928-rw)
 ### Laser cut assembly
-![](https://lh3.googleusercontent.com/HaGUqrYZ_jOZm1WbWW_6dp_awc6b2rbgtF-KZznZngbmjFrCimikBTeIWbNhQDGBprN0wBVK2YEMgmc=w3716-h1836-rw)
+![](https://lh3.googleusercontent.com/zrHeOZ84twj0wHQmrq3p5EZxGgI6pTz9VCaykLNvBLdA5amYb8wXMkKoWavOUXdhH0VU3Eon3gmtKC8=w3716-h1928-rw)
 
 ### Linear Actuator Motor holder
 This is ongoing and currently designing it in Fusion 360 and it'll be 3D
