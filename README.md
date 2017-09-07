@@ -39,7 +39,18 @@ The solid modeling file is in `solid_modeling/lifter.scad`
 ### Laser cut assembly
 ![](images/lift_laser_cut.jpg)
 
+### Motor shaft to threaded shaft coupler
+
+#### Design
+![](images/motor_to_threaded_shaft_coupler.png)
+
+#### 3D printed
+![](images/coupler_in_motor.png)
+![](images/shaft_coupler.png)
+
 ### Linear Actuator Motor holder
-This is ongoing and currently designing it in Fusion 360 and it'll be 3D
-printed initially using PLA.
-![](images/motor_holder.png)
+#### Design
+![](images/design_motor_holder.png)
+
+#### 3D printed
+![](images/motor_holder_printed.png)
