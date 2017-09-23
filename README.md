@@ -54,3 +54,8 @@ The solid modeling file is in `solid_modeling/lifter.scad`
 
 #### 3D printed
 ![](images/motor_holder_printed.png)
+
+### Magnet-to-shaft press fit coupler for closed-loop control
+
+#### 3D printed
+![](images/magnet_holder.png)
